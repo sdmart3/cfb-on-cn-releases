@@ -16,17 +16,16 @@ loading screen, touchdown and field goal graphics, the fonts, and the side panel
 - **Pregame:** a "NOW: AWAY VS HOME" strip on the matchup screen.
 - **Halftime:** the halftime page becomes a comic-book "Around the Toon-iverse" page.
 - **Loading screen:** a rolling checkerboard NOW bumper, with Courage peeking in and waving.
-- **Touchdowns:** a full-screen cartoon TOUCHDOWN burst, with Johnny Bravo flexing behind it. **Field goals:** a CN strip.
+- **Touchdowns:** a checkerboard TOUCHDOWN! strip with Johnny Bravo flexing. **Field goals:** a matching FIELD GOAL! strip.
 - **Fonts:** chunky cartoon lettering on the bug, scores and banners.
 - **Ultrawide:** checkerboard side panels on the menus instead of the team colour.
 
 ## Pick one file
 
-| File | Score bug | Touchdown |
-|---|---|---|
-| `CFBonCN.fbmod` | checker rail, bottom centre | full-screen burst |
-| `CFBonCN-BugB.fbmod` | corner box, bottom right | full-screen burst |
-| `CFBonCN-TDStrip.fbmod` | checker rail, bottom centre | strip in place of the stock touchdown bar |
+| File | Score bug |
+|---|---|
+| `CFBonCN.fbmod` | checker rail, bottom centre |
+| `CFBonCN-BugB.fbmod` | corner box, bottom right |
 
 Enable only one of them.
 
@@ -39,5 +38,6 @@ Enable only one of them.
 
 ## Coming later
 
+- A full-screen touchdown burst.
 - A host on the halftime page.
 - CN music for the pregame, quarter breaks and halftime.

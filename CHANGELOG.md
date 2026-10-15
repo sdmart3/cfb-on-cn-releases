@@ -2,6 +2,6 @@
 
 ## 1.0.0
 
-- First release: score bug (checker rail or corner box), mini field strip, corner scores, pregame NOW strip,
-  halftime comic page, loading bumper (with Courage), touchdown burst (with Johnny Bravo) or strip, field goal strip, cartoon fonts, ultrawide side
-  panels.
+- First release: score bug (checker rail or corner box) with a mini field strip and ball spot, corner scores,
+  pregame NOW strip, halftime comic page, loading bumper (with Courage), touchdown strip (with Johnny Bravo), field
+  goal strip, cartoon fonts, ultrawide side panels.
