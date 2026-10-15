@@ -15,8 +15,8 @@ loading screen, touchdown and field goal graphics, the fonts, and the side panel
   Play Now has no ticker).
 - **Pregame:** a "NOW: AWAY VS HOME" strip on the matchup screen.
 - **Halftime:** the halftime page becomes a comic-book "Around the Toon-iverse" page.
-- **Loading screen:** a rolling checkerboard NOW bumper.
-- **Touchdowns:** a full-screen cartoon TOUCHDOWN burst. **Field goals:** a CN strip.
+- **Loading screen:** a rolling checkerboard NOW bumper, with Courage peeking in and waving.
+- **Touchdowns:** a full-screen cartoon TOUCHDOWN burst, with Johnny Bravo flexing behind it. **Field goals:** a CN strip.
 - **Fonts:** chunky cartoon lettering on the bug, scores and banners.
 - **Ultrawide:** checkerboard side panels on the menus instead of the team colour.
 
@@ -39,5 +39,5 @@ Enable only one of them.
 
 ## Coming later
 
-- Characters on the touchdown burst, the halftime page and the loading bumper.
+- A host on the halftime page.
 - CN music for the pregame, quarter breaks and halftime.
