@@ -3,7 +3,6 @@
 ## 1.0.1
 
 - Fixed a huge red wedge from the ball to the Stadium Pulse box that showed pre-snap in loud stadiums (silent count).
-- Removed the stray white and orange shards that flew around the score bug and the touchdown / field goal strips.
 
 ## 1.0.0
 
