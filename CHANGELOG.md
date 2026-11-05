@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+
+- Works with the October 29 game update. The file is rebuilt for it; nothing else changed.
+
 ## 1.0.1
 
 - Fixed a huge red wedge from the ball to the Stadium Pulse box that showed pre-snap in loud stadiums (silent count).
